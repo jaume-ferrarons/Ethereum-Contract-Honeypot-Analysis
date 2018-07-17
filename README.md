@@ -1,4 +1,4 @@
-# Ethereum Contract HoneyPot Analysis
+# Ethereum Contract Honeypot Analysis
 
 ## Disclaimer
 **DO NOT USE contracts/CompanyTest.sol IF YOU DON'T KNOW WHAT YOU DO!!!**
